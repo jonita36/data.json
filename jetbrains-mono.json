@@ -1,0 +1,12 @@
+{
+  "name": "JetBrains Mono",
+  "author": "JetBrains",
+  "license": "OFL",
+  "variants": {
+    "regular": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf",
+    "medium": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Medium.ttf",
+    "semibold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-SemiBold.ttf",
+    "bold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Bold.ttf",
+    "extrabold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-ExtraBold.ttf"
+  }
+}
