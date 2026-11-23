@@ -1,12 +1,18 @@
 {
+  "spec": 1,
   "name": "JetBrains Mono",
-  "author": "JetBrains",
-  "license": "OFL",
-  "variants": {
-    "400": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf",
-    "500": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Medium.ttf",
-    "600": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-SemiBold.ttf",
-    "700": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Bold.ttf",
-    "800": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-ExtraBold.ttf"
+  "previewText": "JetBrains Mono",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-ExtraBold.ttf",
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-Regular.ttf",
+    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-Italic.ttf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-Medium.ttf",
+    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-MediumItalic.ttf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-SemiBoldItalic.ttf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-Bold.ttf",
+    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-ExtraBold.ttf",
+    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/ttf/JetBrainsMono-ExtraBoldItalic.ttf"
   }
 }
